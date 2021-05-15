@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://luxplanjay.github.io/team-proj-demo",
+  "homepage": "https://github.com/IrynaKolesnyk/HW9-team-project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-proj-demo/"
+    "build": "parcel build src/*.html --public-url /HW9-team-project/"
   },
   "repository": {
     "type": "git",
